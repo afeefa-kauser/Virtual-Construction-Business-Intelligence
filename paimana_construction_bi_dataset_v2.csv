@@ -1,0 +1,501 @@
+Project_ID,Project_Name,Sector,Implementing_Agency,State,Original_Cost_Cr,Revised_Cost_Cr,Cost_Overrun_Cr,Original_Target_Date,Time_Extension_Days,Revised_Target_Date,Physical_Progress_Pct,Financial_Progress_Pct,Primary_Bottleneck
+PRJ0001,Mega Infrastructure Development Phase 1,Real Estate,BMRCL,Karnataka,1664.68,1831.15,166.47,10-09-2023,236,03-05-2024,62,75,Contractual Dispute
+PRJ0002,Mega Infrastructure Development Phase 2,Bridges & Tunnels,RVNL,Karnataka,1677.89,1677.89,0,03-11-2021,0,03-11-2021,71,79,None
+PRJ0003,Mega Infrastructure Development Phase 3,Roads & Highways,NHAI,Tamil Nadu,1007.04,1258.8,251.76,12-01-2022,412,28-02-2023,50,60,Land Acquisition
+PRJ0004,Mega Infrastructure Development Phase 4,Urban Public Transport,NHAI,Tamil Nadu,1467.59,1467.59,0,12-05-2023,0,12-05-2023,66,67,None
+PRJ0005,Mega Infrastructure Development Phase 5,Construction,NHAI,Delhi,1280.5,2304.9,1024.4,01-02-2022,102,14-05-2022,69,60,Utility Shifting
+PRJ0006,Mega Infrastructure Development Phase 6,Construction,MSRDC,Karnataka,2229.75,2787.19,557.44,07-04-2022,583,11-11-2023,63,60,Environmental Clearance
+PRJ0007,Mega Infrastructure Development Phase 7,Construction,CPWD,Karnataka,1396.12,1535.73,139.61,21-03-2022,376,01-04-2023,79,68,Environmental Clearance
+PRJ0008,Mega Infrastructure Development Phase 8,Roads & Highways,MSRDC,Uttar Pradesh,1186.43,1186.43,0,04-07-2021,0,04-07-2021,66,76,None
+PRJ0009,Mega Infrastructure Development Phase 9,Roads & Highways,CPWD,Tamil Nadu,1100.54,1650.81,550.27,19-10-2022,569,10-05-2024,19,6,Environmental Clearance
+PRJ0010,Mega Infrastructure Development Phase 10,Roads & Highways,MSRDC,Karnataka,1495.21,1869.01,373.8,15-07-2023,111,03-11-2023,49,40,Contractual Dispute
+PRJ0011,Mega Infrastructure Development Phase 11,Construction,MSRDC,Gujarat,2039.35,2039.35,0,09-06-2022,0,09-06-2022,16,5,None
+PRJ0012,Mega Infrastructure Development Phase 12,Bridges & Tunnels,BMRCL,Delhi,1415.24,1415.24,0,22-11-2023,0,22-11-2023,47,48,None
+PRJ0013,Mega Infrastructure Development Phase 13,Roads & Highways,DMRC,Telangana,1704.89,2131.11,426.22,04-01-2022,409,17-02-2023,94,100,Utility Shifting
+PRJ0014,Mega Infrastructure Development Phase 14,Construction,MSRDC,Gujarat,1883.96,1883.96,0,06-10-2022,0,06-10-2022,70,57,None
+PRJ0015,Mega Infrastructure Development Phase 15,Construction,BMRCL,Gujarat,1372.4,2058.6,686.2,01-12-2023,366,01-12-2024,93,92,Utility Shifting
+PRJ0016,Mega Infrastructure Development Phase 16,Construction,NBCC,Telangana,1153.02,1268.32,115.3,08-12-2021,293,27-09-2022,12,25,Environmental Clearance
+PRJ0017,Mega Infrastructure Development Phase 17,Real Estate,DMRC,West Bengal,2210.16,2210.16,0,12-10-2022,0,12-10-2022,60,76,None
+PRJ0018,Mega Infrastructure Development Phase 18,Urban Public Transport,MSRDC,West Bengal,1131.14,1413.93,282.79,26-09-2022,636,23-06-2024,95,100,Land Acquisition
+PRJ0019,Mega Infrastructure Development Phase 19,Urban Public Transport,RVNL,Delhi,1235.57,1235.57,0,02-04-2021,0,02-04-2021,56,56,None
+PRJ0020,Mega Infrastructure Development Phase 20,Real Estate,NHAI,Gujarat,2477.3,2725.03,247.73,19-10-2023,146,13-03-2024,77,86,Contractual Dispute
+PRJ0021,Mega Infrastructure Development Phase 21,Roads & Highways,NBCC,Karnataka,150.56,150.56,0,25-04-2021,0,25-04-2021,85,97,None
+PRJ0022,Mega Infrastructure Development Phase 22,Construction,NBCC,Tamil Nadu,585.86,585.86,0,13-05-2022,0,13-05-2022,47,40,None
+PRJ0023,Mega Infrastructure Development Phase 23,Real Estate,BMRCL,Delhi,1052.32,1157.55,105.23,13-09-2021,108,30-12-2021,45,30,Contractual Dispute
+PRJ0024,Mega Infrastructure Development Phase 24,Real Estate,NBCC,Uttar Pradesh,2341.59,2575.75,234.16,04-09-2022,459,07-12-2023,50,63,Environmental Clearance
+PRJ0025,Mega Infrastructure Development Phase 25,Urban Public Transport,DMRC,Telangana,314.57,346.03,31.46,18-11-2023,353,05-11-2024,78,84,Environmental Clearance
+PRJ0026,Mega Infrastructure Development Phase 26,Roads & Highways,MSRDC,Gujarat,172.29,215.36,43.07,15-10-2021,202,05-05-2022,22,22,Environmental Clearance
+PRJ0027,Mega Infrastructure Development Phase 27,Construction,MSRDC,Delhi,273.81,301.19,27.38,05-12-2022,577,04-07-2024,96,87,Contractual Dispute
+PRJ0028,Mega Infrastructure Development Phase 28,Urban Public Transport,RVNL,Maharashtra,358.08,358.08,0,28-07-2023,0,28-07-2023,67,65,None
+PRJ0029,Mega Infrastructure Development Phase 29,Urban Public Transport,NHAI,Maharashtra,238.35,238.35,0,12-08-2023,0,12-08-2023,59,72,None
+PRJ0030,Mega Infrastructure Development Phase 30,Construction,BMRCL,West Bengal,1277.49,1916.24,638.75,07-05-2021,668,06-03-2023,39,42,Land Acquisition
+PRJ0031,Mega Infrastructure Development Phase 31,Roads & Highways,NHAI,Telangana,1514.78,1893.48,378.7,03-04-2024,154,04-09-2024,71,74,Land Acquisition
+PRJ0032,Mega Infrastructure Development Phase 32,Construction,NBCC,Tamil Nadu,788.46,867.31,78.85,16-04-2024,381,02-05-2025,34,20,Environmental Clearance
+PRJ0033,Mega Infrastructure Development Phase 33,Construction,RVNL,Karnataka,1085.98,1085.98,0,16-08-2023,0,16-08-2023,36,35,None
+PRJ0034,Mega Infrastructure Development Phase 34,Bridges & Tunnels,NHAI,Tamil Nadu,365.49,365.49,0,05-08-2021,0,05-08-2021,60,47,None
+PRJ0035,Mega Infrastructure Development Phase 35,Bridges & Tunnels,DMRC,Tamil Nadu,940.47,1175.59,235.12,12-07-2022,90,10-10-2022,87,82,Fund Flow
+PRJ0036,Mega Infrastructure Development Phase 36,Roads & Highways,MSRDC,Tamil Nadu,1377.92,2066.88,688.96,03-02-2023,638,02-11-2024,66,80,Land Acquisition
+PRJ0037,Mega Infrastructure Development Phase 37,Real Estate,NBCC,Telangana,1870.84,2057.92,187.08,19-12-2022,230,06-08-2023,56,58,Contractual Dispute
+PRJ0038,Mega Infrastructure Development Phase 38,Construction,RVNL,Tamil Nadu,157.86,197.32,39.46,23-04-2022,277,25-01-2023,48,34,Land Acquisition
+PRJ0039,Mega Infrastructure Development Phase 39,Roads & Highways,NHAI,Uttar Pradesh,1248.18,1560.22,312.04,10-12-2022,217,15-07-2023,25,41,Contractual Dispute
+PRJ0040,Mega Infrastructure Development Phase 40,Urban Public Transport,BMRCL,Telangana,847.96,847.96,0,22-01-2023,0,22-01-2023,31,23,None
+PRJ0041,Mega Infrastructure Development Phase 41,Construction,DMRC,Uttar Pradesh,2154.13,2369.54,215.41,23-01-2022,216,27-08-2022,94,100,Fund Flow
+PRJ0042,Mega Infrastructure Development Phase 42,Urban Public Transport,DMRC,Telangana,1831.55,1831.55,0,11-12-2022,0,11-12-2022,63,53,None
+PRJ0043,Mega Infrastructure Development Phase 43,Construction,NHAI,West Bengal,1534.41,1534.41,0,17-01-2024,0,17-01-2024,30,26,None
+PRJ0044,Mega Infrastructure Development Phase 44,Bridges & Tunnels,MSRDC,Delhi,801.57,1202.36,400.79,07-07-2021,283,16-04-2022,81,80,Fund Flow
+PRJ0045,Mega Infrastructure Development Phase 45,Real Estate,NHAI,Maharashtra,2289.3,2518.23,228.93,05-07-2022,193,14-01-2023,25,37,Environmental Clearance
+PRJ0046,Mega Infrastructure Development Phase 46,Roads & Highways,NBCC,Tamil Nadu,255.99,281.59,25.6,16-03-2022,624,30-11-2023,68,70,Environmental Clearance
+PRJ0047,Mega Infrastructure Development Phase 47,Real Estate,NHAI,West Bengal,407.25,407.25,0,30-11-2022,0,30-11-2022,40,26,None
+PRJ0048,Mega Infrastructure Development Phase 48,Urban Public Transport,DMRC,Delhi,1070.33,1070.33,0,07-07-2022,0,07-07-2022,51,48,None
+PRJ0049,Mega Infrastructure Development Phase 49,Urban Public Transport,RVNL,Maharashtra,442.43,442.43,0,19-06-2024,0,19-06-2024,83,82,None
+PRJ0050,Mega Infrastructure Development Phase 50,Construction,NHAI,Gujarat,2397.58,2397.58,0,28-11-2023,0,28-11-2023,41,45,None
+PRJ0051,Mega Infrastructure Development Phase 51,Bridges & Tunnels,MSRDC,Karnataka,2025.27,2227.8,202.53,30-01-2022,447,22-04-2023,68,81,Environmental Clearance
+PRJ0052,Mega Infrastructure Development Phase 52,Roads & Highways,RVNL,Uttar Pradesh,758.61,758.61,0,15-07-2022,0,15-07-2022,43,56,None
+PRJ0053,Mega Infrastructure Development Phase 53,Bridges & Tunnels,BMRCL,Gujarat,1533.1,1686.41,153.31,22-07-2023,444,08-10-2024,18,5,Land Acquisition
+PRJ0054,Mega Infrastructure Development Phase 54,Roads & Highways,CPWD,Telangana,2458.48,2458.48,0,09-02-2022,0,09-02-2022,90,93,None
+PRJ0055,Mega Infrastructure Development Phase 55,Urban Public Transport,NHAI,Maharashtra,2227.87,2227.87,0,02-10-2021,0,02-10-2021,20,7,None
+PRJ0056,Mega Infrastructure Development Phase 56,Bridges & Tunnels,MSRDC,Gujarat,1561.88,1561.88,0,08-04-2023,0,08-04-2023,19,17,None
+PRJ0057,Mega Infrastructure Development Phase 57,Construction,RVNL,Karnataka,2273.75,2501.12,227.37,18-03-2023,134,30-07-2023,95,83,Utility Shifting
+PRJ0058,Mega Infrastructure Development Phase 58,Construction,MSRDC,West Bengal,2474.58,2722.04,247.46,16-09-2023,662,09-07-2025,26,21,Environmental Clearance
+PRJ0059,Mega Infrastructure Development Phase 59,Construction,BMRCL,Maharashtra,1896.88,2086.57,189.69,26-04-2024,172,15-10-2024,77,92,Fund Flow
+PRJ0060,Mega Infrastructure Development Phase 60,Real Estate,DMRC,Gujarat,302.72,332.99,30.27,13-06-2023,212,11-01-2024,57,73,Contractual Dispute
+PRJ0061,Mega Infrastructure Development Phase 61,Real Estate,MSRDC,Uttar Pradesh,1093.71,1367.14,273.43,03-10-2021,447,24-12-2022,61,72,Utility Shifting
+PRJ0062,Mega Infrastructure Development Phase 62,Real Estate,RVNL,Uttar Pradesh,2118.89,2118.89,0,25-06-2024,0,25-06-2024,34,48,None
+PRJ0063,Mega Infrastructure Development Phase 63,Roads & Highways,MSRDC,Delhi,691.84,691.84,0,11-01-2024,0,11-01-2024,30,16,None
+PRJ0064,Mega Infrastructure Development Phase 64,Real Estate,MSRDC,Gujarat,2102.01,2627.51,525.5,07-11-2022,464,14-02-2024,74,67,Environmental Clearance
+PRJ0065,Mega Infrastructure Development Phase 65,Real Estate,MSRDC,Tamil Nadu,432.8,476.08,43.28,26-10-2021,251,04-07-2022,72,84,Land Acquisition
+PRJ0066,Mega Infrastructure Development Phase 66,Urban Public Transport,NBCC,Gujarat,260.32,260.32,0,27-07-2024,0,27-07-2024,98,100,None
+PRJ0067,Mega Infrastructure Development Phase 67,Construction,NBCC,West Bengal,1052.61,1578.92,526.31,05-06-2024,447,26-08-2025,60,78,Land Acquisition
+PRJ0068,Mega Infrastructure Development Phase 68,Roads & Highways,DMRC,Maharashtra,236.32,295.4,59.08,16-04-2022,277,18-01-2023,45,44,Utility Shifting
+PRJ0069,Mega Infrastructure Development Phase 69,Construction,NHAI,Maharashtra,2399.59,2399.59,0,18-10-2023,0,18-10-2023,90,99,None
+PRJ0070,Mega Infrastructure Development Phase 70,Bridges & Tunnels,MSRDC,West Bengal,2091.58,2300.74,209.16,19-07-2023,539,08-01-2025,97,89,Fund Flow
+PRJ0071,Mega Infrastructure Development Phase 71,Roads & Highways,BMRCL,Gujarat,2031.81,2234.99,203.18,06-05-2023,563,19-11-2024,75,68,Environmental Clearance
+PRJ0072,Mega Infrastructure Development Phase 72,Construction,NHAI,West Bengal,1629.98,1792.98,163,29-09-2022,102,09-01-2023,24,40,Fund Flow
+PRJ0073,Mega Infrastructure Development Phase 73,Construction,BMRCL,Karnataka,658.36,658.36,0,29-08-2023,0,29-08-2023,48,49,None
+PRJ0074,Mega Infrastructure Development Phase 74,Roads & Highways,NHAI,Telangana,1367.91,1367.91,0,27-07-2022,0,27-07-2022,79,98,None
+PRJ0075,Mega Infrastructure Development Phase 75,Roads & Highways,DMRC,West Bengal,1553.59,1708.95,155.36,14-11-2023,597,03-07-2025,10,13,Utility Shifting
+PRJ0076,Mega Infrastructure Development Phase 76,Roads & Highways,MSRDC,Uttar Pradesh,1383.82,1522.2,138.38,16-02-2023,379,01-03-2024,32,45,Fund Flow
+PRJ0077,Mega Infrastructure Development Phase 77,Roads & Highways,MSRDC,West Bengal,761.55,951.94,190.39,29-06-2022,384,18-07-2023,48,39,Fund Flow
+PRJ0078,Mega Infrastructure Development Phase 78,Construction,CPWD,Maharashtra,1360.83,1496.91,136.08,15-10-2021,540,08-04-2023,66,78,Fund Flow
+PRJ0079,Mega Infrastructure Development Phase 79,Real Estate,BMRCL,Uttar Pradesh,1304.29,1304.29,0,03-03-2023,0,03-03-2023,90,83,None
+PRJ0080,Mega Infrastructure Development Phase 80,Construction,NHAI,Maharashtra,2491.39,2740.53,249.14,03-02-2023,721,24-01-2025,43,55,Utility Shifting
+PRJ0081,Mega Infrastructure Development Phase 81,Roads & Highways,NHAI,Delhi,2258.97,2258.97,0,31-03-2022,0,31-03-2022,50,40,None
+PRJ0082,Mega Infrastructure Development Phase 82,Roads & Highways,NBCC,Tamil Nadu,1238.94,1362.83,123.89,19-02-2023,116,15-06-2023,82,95,Land Acquisition
+PRJ0083,Mega Infrastructure Development Phase 83,Real Estate,CPWD,Maharashtra,1613.9,1775.29,161.39,16-05-2023,719,04-05-2025,22,23,Contractual Dispute
+PRJ0084,Mega Infrastructure Development Phase 84,Construction,RVNL,Uttar Pradesh,1907.5,1907.5,0,21-04-2024,0,21-04-2024,79,79,None
+PRJ0085,Mega Infrastructure Development Phase 85,Real Estate,RVNL,Delhi,231.93,255.12,23.19,15-05-2023,654,27-02-2025,15,22,Utility Shifting
+PRJ0086,Mega Infrastructure Development Phase 86,Real Estate,NBCC,Maharashtra,2253.07,2253.07,0,02-07-2022,0,02-07-2022,93,100,None
+PRJ0087,Mega Infrastructure Development Phase 87,Roads & Highways,NBCC,Karnataka,2171.3,2171.3,0,17-05-2023,0,17-05-2023,61,48,None
+PRJ0088,Mega Infrastructure Development Phase 88,Roads & Highways,NBCC,West Bengal,1224.97,1224.97,0,19-02-2024,0,19-02-2024,12,17,None
+PRJ0089,Mega Infrastructure Development Phase 89,Roads & Highways,BMRCL,Tamil Nadu,1069.25,1069.25,0,28-02-2023,0,28-02-2023,90,100,None
+PRJ0090,Mega Infrastructure Development Phase 90,Urban Public Transport,BMRCL,Maharashtra,791.45,1424.61,633.16,11-12-2022,492,16-04-2024,72,78,Fund Flow
+PRJ0091,Mega Infrastructure Development Phase 91,Construction,DMRC,Delhi,1270.19,1397.21,127.02,08-01-2024,142,29-05-2024,58,54,Utility Shifting
+PRJ0092,Mega Infrastructure Development Phase 92,Roads & Highways,DMRC,Karnataka,254.29,254.29,0,24-03-2024,0,24-03-2024,85,82,None
+PRJ0093,Mega Infrastructure Development Phase 93,Roads & Highways,NBCC,Gujarat,2152.65,2367.92,215.27,23-12-2022,370,28-12-2023,56,51,Fund Flow
+PRJ0094,Mega Infrastructure Development Phase 94,Urban Public Transport,CPWD,Delhi,233.24,233.24,0,30-04-2024,0,30-04-2024,64,64,None
+PRJ0095,Mega Infrastructure Development Phase 95,Roads & Highways,NHAI,West Bengal,923.27,1661.89,738.62,24-08-2022,426,24-10-2023,73,65,Environmental Clearance
+PRJ0096,Mega Infrastructure Development Phase 96,Urban Public Transport,BMRCL,Delhi,2339.24,2573.16,233.92,21-09-2022,272,20-06-2023,74,60,Land Acquisition
+PRJ0097,Mega Infrastructure Development Phase 97,Urban Public Transport,CPWD,Karnataka,1877.75,2347.19,469.44,25-01-2022,112,17-05-2022,90,100,Environmental Clearance
+PRJ0098,Mega Infrastructure Development Phase 98,Urban Public Transport,MSRDC,Delhi,811.27,811.27,0,19-04-2023,0,19-04-2023,76,90,None
+PRJ0099,Mega Infrastructure Development Phase 99,Construction,BMRCL,Karnataka,743.73,818.1,74.37,09-07-2024,535,26-12-2025,99,95,Environmental Clearance
+PRJ0100,Mega Infrastructure Development Phase 100,Construction,BMRCL,Maharashtra,161.94,178.13,16.19,04-08-2022,163,14-01-2023,24,18,Contractual Dispute
+PRJ0101,Mega Infrastructure Development Phase 101,Construction,DMRC,Telangana,1784.93,2231.16,446.23,10-10-2024,99,17-01-2025,41,36,Land Acquisition
+PRJ0102,Mega Infrastructure Development Phase 102,Roads & Highways,NHAI,Karnataka,264.64,264.64,0,23-10-2024,0,23-10-2024,77,76,None
+PRJ0103,Mega Infrastructure Development Phase 103,Real Estate,NHAI,Karnataka,1401.62,1401.62,0,12-09-2023,0,12-09-2023,27,27,None
+PRJ0104,Mega Infrastructure Development Phase 104,Urban Public Transport,RVNL,Tamil Nadu,2410.99,4339.78,1928.79,26-07-2024,655,12-05-2026,92,93,Fund Flow
+PRJ0105,Mega Infrastructure Development Phase 105,Bridges & Tunnels,RVNL,Karnataka,407.25,447.98,40.73,03-12-2023,653,16-09-2025,52,62,Land Acquisition
+PRJ0106,Mega Infrastructure Development Phase 106,Construction,RVNL,Karnataka,2252.03,2252.03,0,23-09-2023,0,23-09-2023,44,30,None
+PRJ0107,Mega Infrastructure Development Phase 107,Urban Public Transport,RVNL,Gujarat,2479.97,2479.97,0,08-10-2022,0,08-10-2022,87,83,None
+PRJ0108,Mega Infrastructure Development Phase 108,Roads & Highways,MSRDC,Telangana,294.57,530.23,235.66,11-10-2024,267,05-07-2025,67,77,Environmental Clearance
+PRJ0109,Mega Infrastructure Development Phase 109,Construction,MSRDC,Maharashtra,2224.83,2224.83,0,21-09-2024,0,21-09-2024,42,49,None
+PRJ0110,Mega Infrastructure Development Phase 110,Construction,BMRCL,West Bengal,1362.79,1703.49,340.7,02-02-2023,142,24-06-2023,23,25,Fund Flow
+PRJ0111,Mega Infrastructure Development Phase 111,Real Estate,NBCC,Tamil Nadu,2280.31,2850.39,570.08,03-08-2023,497,12-12-2024,43,59,Land Acquisition
+PRJ0112,Mega Infrastructure Development Phase 112,Construction,DMRC,Gujarat,1492.6,1492.6,0,20-11-2023,0,20-11-2023,70,57,None
+PRJ0113,Mega Infrastructure Development Phase 113,Bridges & Tunnels,DMRC,Uttar Pradesh,1705.96,1876.56,170.6,06-05-2024,119,02-09-2024,13,5,Fund Flow
+PRJ0114,Mega Infrastructure Development Phase 114,Roads & Highways,RVNL,Telangana,1427.88,1427.88,0,22-12-2024,0,22-12-2024,97,100,None
+PRJ0115,Mega Infrastructure Development Phase 115,Roads & Highways,BMRCL,Maharashtra,2181.56,2181.56,0,18-09-2023,0,18-09-2023,68,53,None
+PRJ0116,Mega Infrastructure Development Phase 116,Roads & Highways,CPWD,Maharashtra,1874.69,2343.36,468.67,02-12-2024,148,29-04-2025,38,52,Environmental Clearance
+PRJ0117,Mega Infrastructure Development Phase 117,Roads & Highways,NBCC,Uttar Pradesh,1374.96,2062.44,687.48,29-12-2023,560,11-07-2025,92,100,Fund Flow
+PRJ0118,Mega Infrastructure Development Phase 118,Construction,BMRCL,West Bengal,2190.18,2409.2,219.02,27-11-2022,555,04-06-2024,15,27,Land Acquisition
+PRJ0119,Mega Infrastructure Development Phase 119,Roads & Highways,NBCC,Karnataka,726.42,799.06,72.64,15-09-2024,101,25-12-2024,58,63,Land Acquisition
+PRJ0120,Mega Infrastructure Development Phase 120,Urban Public Transport,NBCC,Gujarat,519.75,519.75,0,12-11-2022,0,12-11-2022,49,46,None
+PRJ0121,Mega Infrastructure Development Phase 121,Roads & Highways,NBCC,Delhi,526.94,526.94,0,23-07-2022,0,23-07-2022,92,100,None
+PRJ0122,Mega Infrastructure Development Phase 122,Roads & Highways,BMRCL,Tamil Nadu,934.92,934.92,0,05-03-2023,0,05-03-2023,74,65,None
+PRJ0123,Mega Infrastructure Development Phase 123,Real Estate,RVNL,Delhi,710.92,710.92,0,03-10-2022,0,03-10-2022,78,84,None
+PRJ0124,Mega Infrastructure Development Phase 124,Construction,DMRC,Uttar Pradesh,2335.71,2335.71,0,10-10-2024,0,10-10-2024,36,30,None
+PRJ0125,Mega Infrastructure Development Phase 125,Construction,DMRC,Maharashtra,398.71,398.71,0,13-01-2025,0,13-01-2025,89,88,None
+PRJ0126,Mega Infrastructure Development Phase 126,Urban Public Transport,RVNL,West Bengal,1792.63,1792.63,0,06-01-2024,0,06-01-2024,15,14,None
+PRJ0127,Mega Infrastructure Development Phase 127,Roads & Highways,NBCC,Maharashtra,594.67,594.67,0,18-11-2022,0,18-11-2022,22,10,None
+PRJ0128,Mega Infrastructure Development Phase 128,Roads & Highways,CPWD,Tamil Nadu,2221.85,2444.04,222.19,09-03-2024,330,02-02-2025,73,89,Utility Shifting
+PRJ0129,Mega Infrastructure Development Phase 129,Construction,NHAI,Maharashtra,2409.09,3011.36,602.27,02-01-2023,243,02-09-2023,71,78,Contractual Dispute
+PRJ0130,Mega Infrastructure Development Phase 130,Urban Public Transport,BMRCL,Maharashtra,1243.85,1243.85,0,22-01-2024,0,22-01-2024,28,18,None
+PRJ0131,Mega Infrastructure Development Phase 131,Urban Public Transport,NHAI,Tamil Nadu,2215.82,3323.73,1107.91,16-11-2022,383,04-12-2023,85,93,Environmental Clearance
+PRJ0132,Mega Infrastructure Development Phase 132,Construction,RVNL,Gujarat,162.09,243.14,81.05,21-11-2024,298,15-09-2025,89,93,Land Acquisition
+PRJ0133,Mega Infrastructure Development Phase 133,Construction,CPWD,Gujarat,2076.88,2076.88,0,28-07-2023,0,28-07-2023,52,56,None
+PRJ0134,Mega Infrastructure Development Phase 134,Real Estate,BMRCL,Tamil Nadu,687.27,859.09,171.82,24-04-2024,177,18-10-2024,83,79,Environmental Clearance
+PRJ0135,Mega Infrastructure Development Phase 135,Bridges & Tunnels,RVNL,West Bengal,2285.45,2514,228.55,10-01-2025,479,04-05-2026,98,100,Environmental Clearance
+PRJ0136,Mega Infrastructure Development Phase 136,Real Estate,NBCC,Uttar Pradesh,152.63,167.89,15.26,17-12-2023,414,03-02-2025,29,41,Fund Flow
+PRJ0137,Mega Infrastructure Development Phase 137,Urban Public Transport,DMRC,Telangana,1457.03,1457.03,0,30-08-2023,0,30-08-2023,77,69,None
+PRJ0138,Mega Infrastructure Development Phase 138,Roads & Highways,NHAI,Maharashtra,1928.09,2120.9,192.81,25-01-2025,722,17-01-2027,53,38,Contractual Dispute
+PRJ0139,Mega Infrastructure Development Phase 139,Real Estate,MSRDC,West Bengal,757.92,757.92,0,21-10-2022,0,21-10-2022,32,38,None
+PRJ0140,Mega Infrastructure Development Phase 140,Bridges & Tunnels,MSRDC,Maharashtra,603.86,664.25,60.39,28-11-2022,708,05-11-2024,11,5,Environmental Clearance
+PRJ0141,Mega Infrastructure Development Phase 141,Bridges & Tunnels,CPWD,Telangana,347.63,382.39,34.76,31-01-2025,226,14-09-2025,31,36,Environmental Clearance
+PRJ0142,Mega Infrastructure Development Phase 142,Real Estate,NBCC,Uttar Pradesh,917.12,1008.83,91.71,26-11-2023,517,26-04-2025,66,82,Contractual Dispute
+PRJ0143,Mega Infrastructure Development Phase 143,Urban Public Transport,NHAI,Gujarat,1465.63,1612.19,146.56,13-07-2022,541,05-01-2024,81,100,Land Acquisition
+PRJ0144,Mega Infrastructure Development Phase 144,Real Estate,NBCC,West Bengal,422.23,527.79,105.56,09-04-2023,701,10-03-2025,16,15,Land Acquisition
+PRJ0145,Mega Infrastructure Development Phase 145,Real Estate,NHAI,Karnataka,1035.23,1035.23,0,07-01-2025,0,07-01-2025,87,76,None
+PRJ0146,Mega Infrastructure Development Phase 146,Construction,CPWD,Karnataka,171.32,171.32,0,17-05-2023,0,17-05-2023,65,55,None
+PRJ0147,Mega Infrastructure Development Phase 147,Roads & Highways,CPWD,Telangana,2073.9,2592.38,518.48,25-01-2025,266,18-10-2025,76,85,Utility Shifting
+PRJ0148,Mega Infrastructure Development Phase 148,Urban Public Transport,MSRDC,Karnataka,451.85,451.85,0,26-03-2023,0,26-03-2023,25,38,None
+PRJ0149,Mega Infrastructure Development Phase 149,Construction,NBCC,Gujarat,815.86,815.86,0,06-12-2024,0,06-12-2024,92,83,None
+PRJ0150,Mega Infrastructure Development Phase 150,Real Estate,BMRCL,Telangana,193.31,193.31,0,28-03-2023,0,28-03-2023,60,57,None
+PRJ0151,Mega Infrastructure Development Phase 151,Bridges & Tunnels,MSRDC,Gujarat,1165.77,1165.77,0,15-10-2024,0,15-10-2024,91,93,None
+PRJ0152,Mega Infrastructure Development Phase 152,Construction,NBCC,Uttar Pradesh,2124.29,3823.72,1699.43,16-03-2024,490,19-07-2025,89,75,Utility Shifting
+PRJ0153,Mega Infrastructure Development Phase 153,Construction,MSRDC,Maharashtra,1071.56,1178.72,107.16,17-11-2024,560,31-05-2026,81,73,Utility Shifting
+PRJ0154,Mega Infrastructure Development Phase 154,Urban Public Transport,BMRCL,Uttar Pradesh,571.82,857.73,285.91,28-01-2025,307,01-12-2025,21,16,Contractual Dispute
+PRJ0155,Mega Infrastructure Development Phase 155,Bridges & Tunnels,DMRC,Uttar Pradesh,1921.19,2113.31,192.12,01-05-2023,721,21-04-2025,62,79,Contractual Dispute
+PRJ0156,Mega Infrastructure Development Phase 156,Construction,DMRC,Gujarat,2003.7,2204.07,200.37,13-07-2024,264,03-04-2025,84,95,Utility Shifting
+PRJ0157,Mega Infrastructure Development Phase 157,Roads & Highways,DMRC,Telangana,558.32,558.32,0,01-01-2025,0,01-01-2025,14,18,None
+PRJ0158,Mega Infrastructure Development Phase 158,Roads & Highways,DMRC,Telangana,1961.51,2157.66,196.15,25-04-2023,324,14-03-2024,36,32,Contractual Dispute
+PRJ0159,Mega Infrastructure Development Phase 159,Construction,RVNL,Karnataka,2376.15,2376.15,0,25-07-2025,0,25-07-2025,21,36,None
+PRJ0160,Mega Infrastructure Development Phase 160,Roads & Highways,NHAI,Delhi,540.99,811.48,270.49,29-11-2023,190,06-06-2024,26,37,Fund Flow
+PRJ0161,Mega Infrastructure Development Phase 161,Real Estate,RVNL,Maharashtra,1961.81,2452.26,490.45,28-02-2025,625,15-11-2026,15,31,Land Acquisition
+PRJ0162,Mega Infrastructure Development Phase 162,Roads & Highways,RVNL,Gujarat,1815.14,1815.14,0,16-04-2023,0,16-04-2023,14,8,None
+PRJ0163,Mega Infrastructure Development Phase 163,Roads & Highways,RVNL,Karnataka,1262.9,2273.22,1010.32,17-01-2023,541,11-07-2024,66,53,Environmental Clearance
+PRJ0164,Mega Infrastructure Development Phase 164,Urban Public Transport,DMRC,West Bengal,286.11,357.64,71.53,24-07-2025,520,26-12-2026,37,48,Land Acquisition
+PRJ0165,Mega Infrastructure Development Phase 165,Construction,BMRCL,Delhi,325.53,358.08,32.55,19-11-2023,695,14-10-2025,87,100,Utility Shifting
+PRJ0166,Mega Infrastructure Development Phase 166,Roads & Highways,CPWD,Delhi,2153.17,2153.17,0,14-03-2023,0,14-03-2023,78,93,None
+PRJ0167,Mega Infrastructure Development Phase 167,Real Estate,CPWD,Gujarat,2476.85,2724.54,247.69,31-12-2022,382,17-01-2024,68,67,Fund Flow
+PRJ0168,Mega Infrastructure Development Phase 168,Construction,NHAI,Tamil Nadu,1738.72,1912.59,173.87,03-09-2022,190,12-03-2023,42,42,Environmental Clearance
+PRJ0169,Mega Infrastructure Development Phase 169,Construction,DMRC,Maharashtra,1198,1198,0,30-04-2025,0,30-04-2025,71,68,None
+PRJ0170,Mega Infrastructure Development Phase 170,Urban Public Transport,DMRC,Delhi,1671.8,1671.8,0,11-01-2025,0,11-01-2025,59,78,None
+PRJ0171,Mega Infrastructure Development Phase 171,Roads & Highways,DMRC,Gujarat,1546.83,1933.54,386.71,14-06-2024,629,05-03-2026,28,23,Utility Shifting
+PRJ0172,Mega Infrastructure Development Phase 172,Construction,MSRDC,Gujarat,1051.49,1051.49,0,26-03-2023,0,26-03-2023,95,100,None
+PRJ0173,Mega Infrastructure Development Phase 173,Urban Public Transport,NBCC,Karnataka,304.22,334.64,30.42,18-02-2024,444,07-05-2025,78,73,Contractual Dispute
+PRJ0174,Mega Infrastructure Development Phase 174,Construction,MSRDC,West Bengal,2080.56,3120.84,1040.28,10-12-2023,392,05-01-2025,75,89,Fund Flow
+PRJ0175,Mega Infrastructure Development Phase 175,Roads & Highways,NBCC,Tamil Nadu,1023.81,1535.72,511.91,17-02-2023,585,24-09-2024,56,75,Environmental Clearance
+PRJ0176,Mega Infrastructure Development Phase 176,Construction,DMRC,Maharashtra,2074.15,2074.15,0,17-03-2024,0,17-03-2024,48,54,None
+PRJ0177,Mega Infrastructure Development Phase 177,Roads & Highways,DMRC,Telangana,743.4,1115.1,371.7,20-05-2023,325,09-04-2024,77,92,Fund Flow
+PRJ0178,Mega Infrastructure Development Phase 178,Real Estate,MSRDC,Uttar Pradesh,152.42,152.42,0,14-05-2025,0,14-05-2025,42,40,None
+PRJ0179,Mega Infrastructure Development Phase 179,Bridges & Tunnels,MSRDC,West Bengal,523.5,523.5,0,15-01-2024,0,15-01-2024,22,30,None
+PRJ0180,Mega Infrastructure Development Phase 180,Construction,NBCC,West Bengal,1251.07,1376.18,125.11,19-04-2024,299,12-02-2025,93,100,Utility Shifting
+PRJ0181,Mega Infrastructure Development Phase 181,Real Estate,CPWD,Karnataka,2369.11,2369.11,0,16-11-2023,0,16-11-2023,63,79,None
+PRJ0182,Mega Infrastructure Development Phase 182,Construction,NBCC,Telangana,390.16,390.16,0,14-02-2025,0,14-02-2025,16,15,None
+PRJ0183,Mega Infrastructure Development Phase 183,Bridges & Tunnels,MSRDC,Delhi,2157.39,2373.13,215.74,24-05-2023,120,21-09-2023,88,100,Environmental Clearance
+PRJ0184,Mega Infrastructure Development Phase 184,Roads & Highways,BMRCL,Delhi,1388.51,1388.51,0,06-08-2024,0,06-08-2024,96,83,None
+PRJ0185,Mega Infrastructure Development Phase 185,Real Estate,MSRDC,Karnataka,2090.91,2090.91,0,10-06-2023,0,10-06-2023,23,23,None
+PRJ0186,Mega Infrastructure Development Phase 186,Roads & Highways,BMRCL,Gujarat,851.18,936.3,85.12,18-12-2023,255,29-08-2024,96,85,Environmental Clearance
+PRJ0187,Mega Infrastructure Development Phase 187,Roads & Highways,NHAI,Delhi,2123.88,2654.85,530.97,16-04-2025,548,16-10-2026,28,33,Fund Flow
+PRJ0188,Mega Infrastructure Development Phase 188,Urban Public Transport,MSRDC,Tamil Nadu,1966.13,2162.74,196.61,25-05-2024,189,30-11-2024,63,57,Land Acquisition
+PRJ0189,Mega Infrastructure Development Phase 189,Urban Public Transport,NHAI,Maharashtra,690.63,690.63,0,20-05-2024,0,20-05-2024,29,32,None
+PRJ0190,Mega Infrastructure Development Phase 190,Construction,CPWD,West Bengal,458.64,504.5,45.86,12-04-2023,262,30-12-2023,38,47,Environmental Clearance
+PRJ0191,Mega Infrastructure Development Phase 191,Construction,NBCC,West Bengal,2189.93,2189.93,0,29-07-2024,0,29-07-2024,33,21,None
+PRJ0192,Mega Infrastructure Development Phase 192,Roads & Highways,BMRCL,Tamil Nadu,2413.61,2413.61,0,12-04-2024,0,12-04-2024,91,100,None
+PRJ0193,Mega Infrastructure Development Phase 193,Bridges & Tunnels,NBCC,Telangana,223.56,279.45,55.89,21-03-2025,363,19-03-2026,72,75,Fund Flow
+PRJ0194,Mega Infrastructure Development Phase 194,Roads & Highways,NHAI,Delhi,1868.48,1868.48,0,07-11-2024,0,07-11-2024,83,69,None
+PRJ0195,Mega Infrastructure Development Phase 195,Real Estate,BMRCL,West Bengal,2287.38,2287.38,0,27-07-2024,0,27-07-2024,66,60,None
+PRJ0196,Mega Infrastructure Development Phase 196,Real Estate,NBCC,Uttar Pradesh,2164.8,2381.28,216.48,20-09-2023,415,08-11-2024,17,26,Contractual Dispute
+PRJ0197,Mega Infrastructure Development Phase 197,Roads & Highways,MSRDC,Telangana,2416.62,2658.28,241.66,14-02-2024,238,09-10-2024,99,100,Environmental Clearance
+PRJ0198,Mega Infrastructure Development Phase 198,Roads & Highways,DMRC,Maharashtra,1936.22,2129.84,193.62,24-04-2025,629,13-01-2027,71,74,Utility Shifting
+PRJ0199,Mega Infrastructure Development Phase 199,Roads & Highways,NHAI,Maharashtra,1189.4,1189.4,0,20-09-2023,0,20-09-2023,38,45,None
+PRJ0200,Mega Infrastructure Development Phase 200,Roads & Highways,NBCC,West Bengal,883.09,883.09,0,31-05-2023,0,31-05-2023,83,91,None
+PRJ0201,Mega Infrastructure Development Phase 201,Roads & Highways,NHAI,Karnataka,903.75,903.75,0,05-09-2024,0,05-09-2024,26,21,None
+PRJ0202,Mega Infrastructure Development Phase 202,Construction,RVNL,Telangana,1852.39,1852.39,0,27-10-2024,0,27-10-2024,75,93,None
+PRJ0203,Mega Infrastructure Development Phase 203,Construction,NHAI,West Bengal,1902.72,2092.99,190.27,01-04-2023,622,13-12-2024,15,27,Contractual Dispute
+PRJ0204,Mega Infrastructure Development Phase 204,Roads & Highways,BMRCL,Karnataka,620.84,776.05,155.21,15-08-2025,341,22-07-2026,67,56,Contractual Dispute
+PRJ0205,Mega Infrastructure Development Phase 205,Roads & Highways,RVNL,West Bengal,2190.09,2737.61,547.52,02-07-2025,324,22-05-2026,78,67,Fund Flow
+PRJ0206,Mega Infrastructure Development Phase 206,Construction,BMRCL,Uttar Pradesh,1830.07,2287.59,457.52,30-10-2023,316,10-09-2024,37,42,Environmental Clearance
+PRJ0207,Mega Infrastructure Development Phase 207,Construction,DMRC,Telangana,1472.46,1619.71,147.25,28-09-2025,614,04-06-2027,71,67,Environmental Clearance
+PRJ0208,Mega Infrastructure Development Phase 208,Roads & Highways,RVNL,Gujarat,1258.1,1383.91,125.81,18-07-2023,402,23-08-2024,50,38,Environmental Clearance
+PRJ0209,Mega Infrastructure Development Phase 209,Construction,MSRDC,Maharashtra,1426.6,1426.6,0,21-01-2026,0,21-01-2026,78,82,None
+PRJ0210,Mega Infrastructure Development Phase 210,Construction,NHAI,West Bengal,524.23,576.65,52.42,06-03-2025,207,29-09-2025,91,100,Fund Flow
+PRJ0211,Mega Infrastructure Development Phase 211,Urban Public Transport,NBCC,Uttar Pradesh,628.7,691.57,62.87,31-10-2024,143,23-03-2025,99,97,Environmental Clearance
+PRJ0212,Mega Infrastructure Development Phase 212,Roads & Highways,CPWD,Karnataka,364.24,364.24,0,07-04-2025,0,07-04-2025,93,88,None
+PRJ0213,Mega Infrastructure Development Phase 213,Roads & Highways,NHAI,Karnataka,511.1,511.1,0,13-09-2025,0,13-09-2025,50,66,None
+PRJ0214,Mega Infrastructure Development Phase 214,Construction,NHAI,Maharashtra,1216.18,2189.12,972.94,25-11-2025,142,16-04-2026,58,53,Utility Shifting
+PRJ0215,Mega Infrastructure Development Phase 215,Roads & Highways,DMRC,Tamil Nadu,1396.33,1396.33,0,25-03-2024,0,25-03-2024,58,60,None
+PRJ0216,Mega Infrastructure Development Phase 216,Construction,MSRDC,West Bengal,191.98,191.98,0,15-09-2025,0,15-09-2025,85,96,None
+PRJ0217,Mega Infrastructure Development Phase 217,Real Estate,CPWD,Telangana,2022.47,2224.72,202.25,04-01-2025,614,10-09-2026,80,82,Utility Shifting
+PRJ0218,Mega Infrastructure Development Phase 218,Roads & Highways,RVNL,Delhi,841.29,1051.61,210.32,25-09-2025,191,04-04-2026,12,19,Land Acquisition
+PRJ0219,Mega Infrastructure Development Phase 219,Roads & Highways,RVNL,Karnataka,2292.81,2522.09,229.28,14-06-2024,487,14-10-2025,19,14,Contractual Dispute
+PRJ0220,Mega Infrastructure Development Phase 220,Roads & Highways,RVNL,Telangana,2423.65,2666.02,242.37,22-12-2023,227,05-08-2024,98,100,Contractual Dispute
+PRJ0221,Mega Infrastructure Development Phase 221,Roads & Highways,BMRCL,Telangana,585.83,585.83,0,05-12-2023,0,05-12-2023,44,33,None
+PRJ0222,Mega Infrastructure Development Phase 222,Urban Public Transport,BMRCL,Gujarat,1235.93,1359.52,123.59,01-02-2024,200,19-08-2024,89,96,Land Acquisition
+PRJ0223,Mega Infrastructure Development Phase 223,Construction,NBCC,Telangana,152.89,152.89,0,23-01-2025,0,23-01-2025,11,20,None
+PRJ0224,Mega Infrastructure Development Phase 224,Real Estate,CPWD,Telangana,1556.07,1945.09,389.02,23-06-2025,106,07-10-2025,33,27,Fund Flow
+PRJ0225,Mega Infrastructure Development Phase 225,Real Estate,RVNL,Gujarat,1577.17,1734.89,157.72,26-06-2023,271,23-03-2024,83,89,Utility Shifting
+PRJ0226,Mega Infrastructure Development Phase 226,Construction,BMRCL,Karnataka,731.72,731.72,0,01-07-2025,0,01-07-2025,47,50,None
+PRJ0227,Mega Infrastructure Development Phase 227,Bridges & Tunnels,NBCC,Telangana,1462.27,1462.27,0,01-01-2026,0,01-01-2026,31,16,None
+PRJ0228,Mega Infrastructure Development Phase 228,Real Estate,MSRDC,Tamil Nadu,680.02,680.02,0,08-03-2024,0,08-03-2024,35,26,None
+PRJ0229,Mega Infrastructure Development Phase 229,Roads & Highways,NBCC,Tamil Nadu,527.94,527.94,0,21-11-2023,0,21-11-2023,52,40,None
+PRJ0230,Mega Infrastructure Development Phase 230,Roads & Highways,BMRCL,Uttar Pradesh,1681.07,1681.07,0,27-05-2023,0,27-05-2023,64,49,None
+PRJ0231,Mega Infrastructure Development Phase 231,Roads & Highways,DMRC,Gujarat,915.92,1007.51,91.59,27-06-2023,277,30-03-2024,48,47,Environmental Clearance
+PRJ0232,Mega Infrastructure Development Phase 232,Urban Public Transport,DMRC,Uttar Pradesh,1537.12,1690.83,153.71,06-01-2026,319,21-11-2026,38,34,Utility Shifting
+PRJ0233,Mega Infrastructure Development Phase 233,Urban Public Transport,RVNL,Gujarat,1168.13,1168.13,0,22-09-2024,0,22-09-2024,29,35,None
+PRJ0234,Mega Infrastructure Development Phase 234,Urban Public Transport,DMRC,West Bengal,2463.23,2463.23,0,26-03-2025,0,26-03-2025,50,56,None
+PRJ0235,Mega Infrastructure Development Phase 235,Construction,RVNL,West Bengal,501.51,501.51,0,10-03-2026,0,10-03-2026,63,64,None
+PRJ0236,Mega Infrastructure Development Phase 236,Roads & Highways,RVNL,Telangana,1241.81,1862.72,620.91,27-08-2024,193,08-03-2025,29,42,Land Acquisition
+PRJ0237,Mega Infrastructure Development Phase 237,Real Estate,BMRCL,Delhi,1749.07,1749.07,0,02-05-2026,0,02-05-2026,28,26,None
+PRJ0238,Mega Infrastructure Development Phase 238,Construction,DMRC,West Bengal,1079.53,1187.48,107.95,13-10-2025,591,27-05-2027,93,97,Land Acquisition
+PRJ0239,Mega Infrastructure Development Phase 239,Roads & Highways,RVNL,Delhi,2440.54,3050.68,610.14,24-07-2024,264,14-04-2025,75,92,Utility Shifting
+PRJ0240,Mega Infrastructure Development Phase 240,Construction,CPWD,West Bengal,1846.44,2031.08,184.64,15-02-2024,510,09-07-2025,39,38,Land Acquisition
+PRJ0241,Mega Infrastructure Development Phase 241,Bridges & Tunnels,MSRDC,Maharashtra,1693.91,2540.87,846.96,20-04-2026,223,29-11-2026,62,58,Land Acquisition
+PRJ0242,Mega Infrastructure Development Phase 242,Bridges & Tunnels,NBCC,West Bengal,1929.09,1929.09,0,17-07-2025,0,17-07-2025,43,47,None
+PRJ0243,Mega Infrastructure Development Phase 243,Bridges & Tunnels,NBCC,Uttar Pradesh,2388.72,4299.7,1910.98,09-10-2024,590,22-05-2026,31,45,Utility Shifting
+PRJ0244,Mega Infrastructure Development Phase 244,Real Estate,BMRCL,Karnataka,2283.37,2283.37,0,29-03-2025,0,29-03-2025,76,63,None
+PRJ0245,Mega Infrastructure Development Phase 245,Construction,DMRC,Telangana,1852.07,1852.07,0,19-03-2026,0,19-03-2026,15,27,None
+PRJ0246,Mega Infrastructure Development Phase 246,Bridges & Tunnels,DMRC,Uttar Pradesh,1910.53,2101.58,191.05,08-05-2026,608,06-01-2028,88,98,Contractual Dispute
+PRJ0247,Mega Infrastructure Development Phase 247,Urban Public Transport,RVNL,Karnataka,492.92,739.38,246.46,19-02-2026,727,16-02-2028,36,50,Land Acquisition
+PRJ0248,Mega Infrastructure Development Phase 248,Bridges & Tunnels,NHAI,Tamil Nadu,391.56,489.45,97.89,15-10-2024,101,24-01-2025,19,16,Contractual Dispute
+PRJ0249,Mega Infrastructure Development Phase 249,Bridges & Tunnels,RVNL,Uttar Pradesh,1491.63,1491.63,0,22-06-2025,0,22-06-2025,82,79,None
+PRJ0250,Mega Infrastructure Development Phase 250,Roads & Highways,MSRDC,Tamil Nadu,193.16,193.16,0,21-10-2024,0,21-10-2024,57,43,None
+PRJ0251,Mega Infrastructure Development Phase 251,Real Estate,CPWD,Delhi,1283.54,1925.31,641.77,25-06-2026,462,30-09-2027,79,65,Land Acquisition
+PRJ0252,Mega Infrastructure Development Phase 252,Real Estate,NBCC,Delhi,644.32,644.32,0,03-05-2026,0,03-05-2026,68,78,None
+PRJ0253,Mega Infrastructure Development Phase 253,Roads & Highways,RVNL,Maharashtra,963.14,1203.92,240.78,17-06-2024,317,30-04-2025,68,63,Environmental Clearance
+PRJ0254,Mega Infrastructure Development Phase 254,Real Estate,NHAI,West Bengal,1973.14,2466.43,493.29,09-06-2024,712,22-05-2026,11,5,Land Acquisition
+PRJ0255,Mega Infrastructure Development Phase 255,Construction,NHAI,Uttar Pradesh,2361.91,2598.1,236.19,27-09-2024,396,28-10-2025,38,44,Environmental Clearance
+PRJ0256,Mega Infrastructure Development Phase 256,Urban Public Transport,RVNL,Tamil Nadu,320.18,320.18,0,11-01-2024,0,11-01-2024,77,81,None
+PRJ0257,Mega Infrastructure Development Phase 257,Bridges & Tunnels,BMRCL,Karnataka,1405.47,1546.02,140.55,02-02-2025,249,09-10-2025,74,66,Land Acquisition
+PRJ0258,Mega Infrastructure Development Phase 258,Roads & Highways,NBCC,Delhi,2223.95,2223.95,0,05-01-2025,0,05-01-2025,92,100,None
+PRJ0259,Mega Infrastructure Development Phase 259,Urban Public Transport,BMRCL,West Bengal,343.9,515.85,171.95,21-05-2025,314,31-03-2026,35,45,Contractual Dispute
+PRJ0260,Mega Infrastructure Development Phase 260,Construction,CPWD,Delhi,2087.61,2296.37,208.76,30-08-2023,593,14-04-2025,98,100,Environmental Clearance
+PRJ0261,Mega Infrastructure Development Phase 261,Roads & Highways,NHAI,Karnataka,990.83,1486.24,495.41,05-11-2025,545,04-05-2027,19,20,Environmental Clearance
+PRJ0262,Mega Infrastructure Development Phase 262,Bridges & Tunnels,NHAI,West Bengal,906.92,906.92,0,08-04-2025,0,08-04-2025,62,66,None
+PRJ0263,Mega Infrastructure Development Phase 263,Construction,MSRDC,West Bengal,2447.05,4404.69,1957.64,24-09-2024,303,24-07-2025,88,88,Utility Shifting
+PRJ0264,Mega Infrastructure Development Phase 264,Urban Public Transport,CPWD,Tamil Nadu,622.02,684.22,62.2,07-04-2024,148,02-09-2024,68,59,Utility Shifting
+PRJ0265,Mega Infrastructure Development Phase 265,Roads & Highways,NHAI,Tamil Nadu,1779.01,1779.01,0,06-02-2025,0,06-02-2025,31,31,None
+PRJ0266,Mega Infrastructure Development Phase 266,Roads & Highways,CPWD,Uttar Pradesh,2080.39,2080.39,0,12-01-2025,0,12-01-2025,60,71,None
+PRJ0267,Mega Infrastructure Development Phase 267,Roads & Highways,NBCC,Uttar Pradesh,246.78,308.48,61.7,25-02-2024,578,25-09-2025,57,64,Fund Flow
+PRJ0268,Mega Infrastructure Development Phase 268,Roads & Highways,DMRC,Gujarat,1725.41,1897.95,172.54,13-01-2024,246,15-09-2024,30,38,Land Acquisition
+PRJ0269,Mega Infrastructure Development Phase 269,Real Estate,NHAI,Telangana,2386.14,2982.68,596.54,19-08-2024,699,19-07-2026,31,24,Environmental Clearance
+PRJ0270,Mega Infrastructure Development Phase 270,Real Estate,MSRDC,Gujarat,441.92,441.92,0,03-03-2025,0,03-03-2025,39,58,None
+PRJ0271,Mega Infrastructure Development Phase 271,Roads & Highways,NBCC,Maharashtra,2256.12,2256.12,0,25-10-2025,0,25-10-2025,34,38,None
+PRJ0272,Mega Infrastructure Development Phase 272,Roads & Highways,RVNL,Delhi,1547.73,1702.5,154.77,02-12-2023,294,21-09-2024,37,38,Environmental Clearance
+PRJ0273,Mega Infrastructure Development Phase 273,Roads & Highways,CPWD,Uttar Pradesh,1599.02,1599.02,0,22-04-2025,0,22-04-2025,74,89,None
+PRJ0274,Mega Infrastructure Development Phase 274,Bridges & Tunnels,RVNL,Tamil Nadu,1590.42,1749.46,159.04,25-01-2026,213,26-08-2026,54,46,Utility Shifting
+PRJ0275,Mega Infrastructure Development Phase 275,Urban Public Transport,BMRCL,Karnataka,852.26,1534.07,681.81,09-04-2024,560,21-10-2025,77,76,Utility Shifting
+PRJ0276,Mega Infrastructure Development Phase 276,Urban Public Transport,NBCC,Tamil Nadu,2347.72,4225.9,1878.18,13-09-2024,307,17-07-2025,16,31,Land Acquisition
+PRJ0277,Mega Infrastructure Development Phase 277,Roads & Highways,RVNL,Delhi,2376.27,3564.4,1188.13,13-05-2026,605,08-01-2028,58,72,Utility Shifting
+PRJ0278,Mega Infrastructure Development Phase 278,Roads & Highways,NHAI,Gujarat,1619.47,2024.34,404.87,10-05-2024,691,01-04-2026,18,22,Environmental Clearance
+PRJ0279,Mega Infrastructure Development Phase 279,Roads & Highways,CPWD,Tamil Nadu,1991.04,1991.04,0,08-05-2025,0,08-05-2025,45,41,None
+PRJ0280,Mega Infrastructure Development Phase 280,Roads & Highways,DMRC,Telangana,1588.81,1747.69,158.88,04-12-2025,482,31-03-2027,92,93,Fund Flow
+PRJ0281,Mega Infrastructure Development Phase 281,Roads & Highways,NBCC,Maharashtra,1288.34,1417.17,128.83,08-07-2024,720,28-06-2026,10,24,Utility Shifting
+PRJ0282,Mega Infrastructure Development Phase 282,Real Estate,NHAI,Delhi,1702.93,2128.66,425.73,23-10-2025,697,20-09-2027,19,32,Environmental Clearance
+PRJ0283,Mega Infrastructure Development Phase 283,Real Estate,MSRDC,Gujarat,1449.55,1449.55,0,05-08-2024,0,05-08-2024,45,48,None
+PRJ0284,Mega Infrastructure Development Phase 284,Construction,BMRCL,Telangana,1554.07,1709.48,155.41,27-10-2024,420,21-12-2025,82,77,Contractual Dispute
+PRJ0285,Mega Infrastructure Development Phase 285,Urban Public Transport,CPWD,Karnataka,1992.01,1992.01,0,18-01-2025,0,18-01-2025,55,73,None
+PRJ0286,Mega Infrastructure Development Phase 286,Construction,NBCC,Gujarat,1280.12,1408.13,128.01,08-02-2024,629,29-10-2025,41,32,Environmental Clearance
+PRJ0287,Mega Infrastructure Development Phase 287,Urban Public Transport,NBCC,West Bengal,245.77,368.66,122.89,03-12-2025,367,05-12-2026,41,59,Contractual Dispute
+PRJ0288,Mega Infrastructure Development Phase 288,Urban Public Transport,DMRC,Telangana,535.4,669.25,133.85,31-03-2026,322,16-02-2027,15,19,Contractual Dispute
+PRJ0289,Mega Infrastructure Development Phase 289,Real Estate,DMRC,Telangana,1180.73,1180.73,0,08-04-2024,0,08-04-2024,57,65,None
+PRJ0290,Mega Infrastructure Development Phase 290,Urban Public Transport,MSRDC,Maharashtra,1853.34,3336.01,1482.67,10-12-2025,660,01-10-2027,47,41,Contractual Dispute
+PRJ0291,Mega Infrastructure Development Phase 291,Construction,BMRCL,Delhi,1544.2,1698.62,154.42,09-09-2025,179,07-03-2026,26,42,Environmental Clearance
+PRJ0292,Mega Infrastructure Development Phase 292,Construction,MSRDC,Karnataka,1678.19,1678.19,0,30-10-2025,0,30-10-2025,83,82,None
+PRJ0293,Mega Infrastructure Development Phase 293,Roads & Highways,NHAI,Maharashtra,1276.31,1276.31,0,27-08-2026,0,27-08-2026,36,40,None
+PRJ0294,Mega Infrastructure Development Phase 294,Real Estate,NHAI,Gujarat,1596.99,1596.99,0,25-01-2024,0,25-01-2024,63,50,None
+PRJ0295,Mega Infrastructure Development Phase 295,Construction,MSRDC,Maharashtra,923.19,923.19,0,09-05-2026,0,09-05-2026,59,51,None
+PRJ0296,Mega Infrastructure Development Phase 296,Urban Public Transport,BMRCL,Telangana,1254.93,2258.87,1003.94,21-06-2025,115,14-10-2025,44,51,Contractual Dispute
+PRJ0297,Mega Infrastructure Development Phase 297,Roads & Highways,MSRDC,Delhi,1899.06,2088.97,189.91,25-01-2025,114,19-05-2025,94,89,Contractual Dispute
+PRJ0298,Mega Infrastructure Development Phase 298,Construction,BMRCL,Uttar Pradesh,2198.81,3298.22,1099.41,31-05-2026,483,26-09-2027,34,26,Fund Flow
+PRJ0299,Mega Infrastructure Development Phase 299,Roads & Highways,BMRCL,Maharashtra,1169.09,1169.09,0,08-05-2026,0,08-05-2026,37,50,None
+PRJ0300,Mega Infrastructure Development Phase 300,Construction,RVNL,West Bengal,252.6,252.6,0,22-08-2025,0,22-08-2025,24,38,None
+PRJ0301,Mega Infrastructure Development Phase 301,Construction,CPWD,Maharashtra,529.93,582.92,52.99,07-12-2024,428,08-02-2026,13,7,Fund Flow
+PRJ0302,Mega Infrastructure Development Phase 302,Urban Public Transport,BMRCL,Gujarat,199.02,199.02,0,09-12-2025,0,09-12-2025,82,94,None
+PRJ0303,Mega Infrastructure Development Phase 303,Urban Public Transport,DMRC,Gujarat,1685.17,1853.69,168.52,22-11-2024,550,26-05-2026,36,33,Contractual Dispute
+PRJ0304,Mega Infrastructure Development Phase 304,Roads & Highways,BMRCL,Karnataka,930.94,1396.41,465.47,21-09-2025,545,20-03-2027,35,51,Fund Flow
+PRJ0305,Mega Infrastructure Development Phase 305,Roads & Highways,BMRCL,Gujarat,1424.82,1567.3,142.48,01-02-2025,449,26-04-2026,28,38,Fund Flow
+PRJ0306,Mega Infrastructure Development Phase 306,Bridges & Tunnels,BMRCL,Tamil Nadu,1309.2,1440.12,130.92,09-09-2024,157,13-02-2025,26,32,Environmental Clearance
+PRJ0307,Mega Infrastructure Development Phase 307,Urban Public Transport,RVNL,Delhi,341.59,341.59,0,19-04-2026,0,19-04-2026,52,40,None
+PRJ0308,Mega Infrastructure Development Phase 308,Real Estate,RVNL,Delhi,1097.66,1097.66,0,02-08-2025,0,02-08-2025,50,65,None
+PRJ0309,Mega Infrastructure Development Phase 309,Roads & Highways,NHAI,Uttar Pradesh,668.32,668.32,0,05-06-2026,0,05-06-2026,51,53,None
+PRJ0310,Mega Infrastructure Development Phase 310,Real Estate,RVNL,Uttar Pradesh,1133.24,1246.56,113.32,02-05-2026,653,14-02-2028,59,67,Contractual Dispute
+PRJ0311,Mega Infrastructure Development Phase 311,Urban Public Transport,DMRC,Delhi,628.41,628.41,0,08-08-2024,0,08-08-2024,93,100,None
+PRJ0312,Mega Infrastructure Development Phase 312,Construction,DMRC,West Bengal,2125.06,2125.06,0,11-01-2027,0,11-01-2027,49,55,None
+PRJ0313,Mega Infrastructure Development Phase 313,Construction,RVNL,Uttar Pradesh,559.35,615.29,55.94,17-03-2025,527,26-08-2026,48,34,Fund Flow
+PRJ0314,Mega Infrastructure Development Phase 314,Bridges & Tunnels,MSRDC,Karnataka,2407.83,2407.83,0,07-04-2026,0,07-04-2026,32,47,None
+PRJ0315,Mega Infrastructure Development Phase 315,Roads & Highways,CPWD,Gujarat,1127.38,1127.38,0,17-08-2026,0,17-08-2026,61,56,None
+PRJ0316,Mega Infrastructure Development Phase 316,Roads & Highways,RVNL,Delhi,2138.68,2138.68,0,01-07-2024,0,01-07-2024,56,68,None
+PRJ0317,Mega Infrastructure Development Phase 317,Urban Public Transport,BMRCL,Telangana,1627.6,2441.4,813.8,01-03-2024,578,30-09-2025,72,88,Fund Flow
+PRJ0318,Mega Infrastructure Development Phase 318,Construction,NBCC,Uttar Pradesh,1878.07,2065.88,187.81,23-03-2024,331,17-02-2025,78,67,Fund Flow
+PRJ0319,Mega Infrastructure Development Phase 319,Construction,CPWD,Delhi,1954.15,2149.56,195.41,12-10-2025,94,14-01-2026,52,46,Utility Shifting
+PRJ0320,Mega Infrastructure Development Phase 320,Real Estate,CPWD,Tamil Nadu,1336.39,1336.39,0,10-06-2025,0,10-06-2025,57,65,None
+PRJ0321,Mega Infrastructure Development Phase 321,Urban Public Transport,DMRC,Maharashtra,1426.76,2568.17,1141.41,27-10-2026,450,20-01-2028,43,62,Contractual Dispute
+PRJ0322,Mega Infrastructure Development Phase 322,Roads & Highways,CPWD,Gujarat,1357.89,1493.68,135.79,06-06-2025,548,06-12-2026,49,56,Utility Shifting
+PRJ0323,Mega Infrastructure Development Phase 323,Roads & Highways,RVNL,Delhi,1531.94,1531.94,0,14-11-2025,0,14-11-2025,84,85,None
+PRJ0324,Mega Infrastructure Development Phase 324,Real Estate,BMRCL,Maharashtra,219.08,328.62,109.54,06-07-2024,655,22-04-2026,70,55,Environmental Clearance
+PRJ0325,Mega Infrastructure Development Phase 325,Bridges & Tunnels,BMRCL,Uttar Pradesh,1079.46,1079.46,0,12-12-2026,0,12-12-2026,59,74,None
+PRJ0326,Mega Infrastructure Development Phase 326,Roads & Highways,NHAI,Maharashtra,1574.54,1731.99,157.45,04-09-2025,104,17-12-2025,76,91,Fund Flow
+PRJ0327,Mega Infrastructure Development Phase 327,Urban Public Transport,BMRCL,Gujarat,1554.65,1710.12,155.47,12-08-2026,662,04-06-2028,71,89,Utility Shifting
+PRJ0328,Mega Infrastructure Development Phase 328,Roads & Highways,BMRCL,Delhi,2013.45,2013.45,0,30-09-2024,0,30-09-2024,67,60,None
+PRJ0329,Mega Infrastructure Development Phase 329,Urban Public Transport,DMRC,Tamil Nadu,1689.27,3040.69,1351.42,13-01-2027,366,14-01-2028,42,48,Fund Flow
+PRJ0330,Mega Infrastructure Development Phase 330,Construction,BMRCL,West Bengal,2481.51,3101.89,620.38,21-06-2025,647,30-03-2027,84,81,Contractual Dispute
+PRJ0331,Mega Infrastructure Development Phase 331,Real Estate,NHAI,Uttar Pradesh,817.06,898.77,81.71,17-04-2026,542,11-10-2027,25,34,Land Acquisition
+PRJ0332,Mega Infrastructure Development Phase 332,Roads & Highways,NBCC,Delhi,994,994,0,22-08-2026,0,22-08-2026,91,93,None
+PRJ0333,Mega Infrastructure Development Phase 333,Construction,RVNL,Gujarat,1052.04,1052.04,0,12-01-2027,0,12-01-2027,57,53,None
+PRJ0334,Mega Infrastructure Development Phase 334,Construction,DMRC,Uttar Pradesh,1244.66,1244.66,0,30-01-2026,0,30-01-2026,19,20,None
+PRJ0335,Mega Infrastructure Development Phase 335,Construction,NBCC,Karnataka,2114.6,2643.25,528.65,29-06-2025,687,17-05-2027,91,90,Fund Flow
+PRJ0336,Mega Infrastructure Development Phase 336,Construction,DMRC,Maharashtra,704.11,704.11,0,23-12-2025,0,23-12-2025,47,46,None
+PRJ0337,Mega Infrastructure Development Phase 337,Roads & Highways,MSRDC,West Bengal,1973.6,2170.96,197.36,09-09-2025,299,05-07-2026,28,27,Fund Flow
+PRJ0338,Mega Infrastructure Development Phase 338,Roads & Highways,CPWD,Gujarat,1102.48,1378.1,275.62,02-07-2025,679,12-05-2027,45,42,Utility Shifting
+PRJ0339,Mega Infrastructure Development Phase 339,Urban Public Transport,MSRDC,Karnataka,1564.36,1564.36,0,11-12-2026,0,11-12-2026,68,69,None
+PRJ0340,Mega Infrastructure Development Phase 340,Construction,BMRCL,Telangana,1636.47,1800.12,163.65,20-04-2025,312,26-02-2026,72,88,Fund Flow
+PRJ0341,Mega Infrastructure Development Phase 341,Urban Public Transport,NBCC,Delhi,1026.19,1026.19,0,13-03-2026,0,13-03-2026,86,79,None
+PRJ0342,Mega Infrastructure Development Phase 342,Urban Public Transport,BMRCL,Tamil Nadu,1354.65,2438.37,1083.72,10-07-2024,607,09-03-2026,55,59,Fund Flow
+PRJ0343,Mega Infrastructure Development Phase 343,Construction,CPWD,Uttar Pradesh,1120.62,1232.68,112.06,18-01-2027,182,19-07-2027,12,22,Contractual Dispute
+PRJ0344,Mega Infrastructure Development Phase 344,Urban Public Transport,DMRC,Maharashtra,312.46,312.46,0,20-09-2024,0,20-09-2024,83,94,None
+PRJ0345,Mega Infrastructure Development Phase 345,Real Estate,CPWD,Uttar Pradesh,1177.34,1177.34,0,29-12-2024,0,29-12-2024,74,79,None
+PRJ0346,Mega Infrastructure Development Phase 346,Roads & Highways,NHAI,West Bengal,378.87,416.76,37.89,07-09-2025,582,12-04-2027,17,19,Contractual Dispute
+PRJ0347,Mega Infrastructure Development Phase 347,Roads & Highways,CPWD,Delhi,1101.8,1377.25,275.45,15-12-2026,324,04-11-2027,60,57,Land Acquisition
+PRJ0348,Mega Infrastructure Development Phase 348,Construction,NHAI,Uttar Pradesh,1543.36,1929.2,385.84,17-01-2025,709,27-12-2026,90,90,Utility Shifting
+PRJ0349,Mega Infrastructure Development Phase 349,Real Estate,CPWD,Maharashtra,1511.63,1662.79,151.16,09-01-2026,250,16-09-2026,82,75,Utility Shifting
+PRJ0350,Mega Infrastructure Development Phase 350,Roads & Highways,RVNL,Delhi,1707.16,1707.16,0,12-06-2026,0,12-06-2026,15,11,None
+PRJ0351,Mega Infrastructure Development Phase 351,Urban Public Transport,NHAI,Uttar Pradesh,373.86,373.86,0,12-08-2026,0,12-08-2026,98,100,None
+PRJ0352,Mega Infrastructure Development Phase 352,Roads & Highways,NBCC,Tamil Nadu,1682.49,1682.49,0,03-10-2025,0,03-10-2025,48,39,None
+PRJ0353,Mega Infrastructure Development Phase 353,Roads & Highways,BMRCL,Gujarat,883.55,971.9,88.35,08-05-2026,612,10-01-2028,69,88,Land Acquisition
+PRJ0354,Mega Infrastructure Development Phase 354,Construction,BMRCL,Delhi,1087.76,1631.64,543.88,03-04-2026,581,05-11-2027,37,39,Contractual Dispute
+PRJ0355,Mega Infrastructure Development Phase 355,Construction,MSRDC,Gujarat,2166.27,2382.9,216.63,08-08-2025,671,10-06-2027,63,63,Environmental Clearance
+PRJ0356,Mega Infrastructure Development Phase 356,Roads & Highways,BMRCL,Telangana,171.22,171.22,0,13-05-2025,0,13-05-2025,46,34,None
+PRJ0357,Mega Infrastructure Development Phase 357,Construction,DMRC,Delhi,1532.77,1686.05,153.28,08-04-2025,669,06-02-2027,18,27,Fund Flow
+PRJ0358,Mega Infrastructure Development Phase 358,Urban Public Transport,RVNL,Tamil Nadu,1556.98,1946.22,389.24,22-04-2025,341,29-03-2026,91,100,Contractual Dispute
+PRJ0359,Mega Infrastructure Development Phase 359,Bridges & Tunnels,CPWD,Gujarat,1082.15,1352.69,270.54,24-09-2025,649,05-07-2027,65,62,Utility Shifting
+PRJ0360,Mega Infrastructure Development Phase 360,Urban Public Transport,MSRDC,Karnataka,707.02,1060.53,353.51,27-03-2025,179,22-09-2025,68,69,Fund Flow
+PRJ0361,Mega Infrastructure Development Phase 361,Real Estate,DMRC,Maharashtra,701.48,701.48,0,21-04-2027,0,21-04-2027,94,84,None
+PRJ0362,Mega Infrastructure Development Phase 362,Roads & Highways,DMRC,Karnataka,2226.72,2226.72,0,09-03-2026,0,09-03-2026,11,14,None
+PRJ0363,Mega Infrastructure Development Phase 363,Urban Public Transport,NHAI,Uttar Pradesh,1188.76,1783.14,594.38,03-10-2024,228,19-05-2025,70,67,Fund Flow
+PRJ0364,Mega Infrastructure Development Phase 364,Urban Public Transport,BMRCL,Tamil Nadu,927.59,1020.35,92.76,30-03-2025,446,19-06-2026,67,77,Contractual Dispute
+PRJ0365,Mega Infrastructure Development Phase 365,Bridges & Tunnels,NBCC,Karnataka,1204.63,1204.63,0,01-03-2027,0,01-03-2027,69,67,None
+PRJ0366,Mega Infrastructure Development Phase 366,Real Estate,NBCC,Delhi,1723.07,2153.84,430.77,30-05-2025,363,28-05-2026,49,64,Fund Flow
+PRJ0367,Mega Infrastructure Development Phase 367,Bridges & Tunnels,MSRDC,Uttar Pradesh,492.53,615.66,123.13,24-10-2025,108,09-02-2026,45,33,Environmental Clearance
+PRJ0368,Mega Infrastructure Development Phase 368,Bridges & Tunnels,RVNL,Uttar Pradesh,1206.17,1326.79,120.62,06-05-2026,400,10-06-2027,46,38,Land Acquisition
+PRJ0369,Mega Infrastructure Development Phase 369,Construction,NBCC,Karnataka,1531.53,1684.68,153.15,16-09-2025,243,17-05-2026,88,97,Environmental Clearance
+PRJ0370,Mega Infrastructure Development Phase 370,Construction,CPWD,Telangana,2379.17,2379.17,0,22-11-2024,0,22-11-2024,27,24,None
+PRJ0371,Mega Infrastructure Development Phase 371,Construction,NBCC,Karnataka,743.44,817.78,74.34,03-08-2027,349,17-07-2028,72,88,Utility Shifting
+PRJ0372,Mega Infrastructure Development Phase 372,Construction,MSRDC,Telangana,994.24,1093.66,99.42,31-03-2025,709,10-03-2027,31,43,Environmental Clearance
+PRJ0373,Mega Infrastructure Development Phase 373,Construction,NBCC,Tamil Nadu,1041.49,1301.86,260.37,16-01-2027,660,06-11-2028,20,34,Utility Shifting
+PRJ0374,Mega Infrastructure Development Phase 374,Roads & Highways,CPWD,Maharashtra,1573.01,1966.26,393.25,25-08-2027,214,26-03-2028,67,54,Land Acquisition
+PRJ0375,Mega Infrastructure Development Phase 375,Construction,NHAI,Karnataka,988.32,1235.4,247.08,20-09-2027,443,06-12-2028,66,78,Fund Flow
+PRJ0376,Mega Infrastructure Development Phase 376,Real Estate,RVNL,West Bengal,1403.75,1403.75,0,25-10-2024,0,25-10-2024,86,73,None
+PRJ0377,Mega Infrastructure Development Phase 377,Roads & Highways,MSRDC,Telangana,1987.21,2484.01,496.8,30-09-2025,708,08-09-2027,13,31,Utility Shifting
+PRJ0378,Mega Infrastructure Development Phase 378,Construction,NHAI,Karnataka,1807.66,2259.58,451.92,22-04-2026,334,22-03-2027,95,95,Fund Flow
+PRJ0379,Mega Infrastructure Development Phase 379,Roads & Highways,NHAI,Gujarat,1198.97,1318.87,119.9,16-08-2026,539,06-02-2028,16,22,Environmental Clearance
+PRJ0380,Mega Infrastructure Development Phase 380,Real Estate,NHAI,Delhi,2180.91,2726.14,545.23,26-08-2026,336,28-07-2027,70,86,Utility Shifting
+PRJ0381,Mega Infrastructure Development Phase 381,Construction,DMRC,West Bengal,1461.63,1827.04,365.41,03-01-2026,609,04-09-2027,63,55,Contractual Dispute
+PRJ0382,Mega Infrastructure Development Phase 382,Roads & Highways,RVNL,West Bengal,1418.78,1560.66,141.88,15-05-2027,230,31-12-2027,97,89,Environmental Clearance
+PRJ0383,Mega Infrastructure Development Phase 383,Roads & Highways,BMRCL,Telangana,230.34,253.37,23.03,03-11-2024,451,28-01-2026,77,67,Environmental Clearance
+PRJ0384,Mega Infrastructure Development Phase 384,Roads & Highways,RVNL,Gujarat,2468.73,2468.73,0,26-12-2025,0,26-12-2025,88,86,None
+PRJ0385,Mega Infrastructure Development Phase 385,Roads & Highways,DMRC,Gujarat,438.98,438.98,0,15-02-2027,0,15-02-2027,10,26,None
+PRJ0386,Mega Infrastructure Development Phase 386,Roads & Highways,BMRCL,Uttar Pradesh,693.16,762.48,69.32,20-05-2026,441,04-08-2027,64,83,Land Acquisition
+PRJ0387,Mega Infrastructure Development Phase 387,Real Estate,RVNL,Telangana,271.49,339.36,67.87,14-05-2027,584,18-12-2028,12,6,Fund Flow
+PRJ0388,Mega Infrastructure Development Phase 388,Construction,NHAI,Maharashtra,1654.01,1654.01,0,19-08-2027,0,19-08-2027,87,74,None
+PRJ0389,Mega Infrastructure Development Phase 389,Roads & Highways,MSRDC,Delhi,678.05,678.05,0,24-03-2025,0,24-03-2025,47,43,None
+PRJ0390,Mega Infrastructure Development Phase 390,Roads & Highways,BMRCL,Tamil Nadu,573.02,630.32,57.3,22-12-2025,128,29-04-2026,10,25,Utility Shifting
+PRJ0391,Mega Infrastructure Development Phase 391,Bridges & Tunnels,CPWD,West Bengal,358.11,358.11,0,21-02-2027,0,21-02-2027,47,60,None
+PRJ0392,Mega Infrastructure Development Phase 392,Urban Public Transport,CPWD,Tamil Nadu,392.78,392.78,0,29-04-2027,0,29-04-2027,94,83,None
+PRJ0393,Mega Infrastructure Development Phase 393,Real Estate,NBCC,Karnataka,1523.98,1523.98,0,02-07-2026,0,02-07-2026,38,47,None
+PRJ0394,Mega Infrastructure Development Phase 394,Roads & Highways,BMRCL,Karnataka,1767.29,1767.29,0,28-10-2025,0,28-10-2025,14,29,None
+PRJ0395,Mega Infrastructure Development Phase 395,Real Estate,MSRDC,Tamil Nadu,1083.84,1083.84,0,28-06-2027,0,28-06-2027,83,88,None
+PRJ0396,Mega Infrastructure Development Phase 396,Bridges & Tunnels,DMRC,Karnataka,1277.76,1277.76,0,27-03-2027,0,27-03-2027,30,34,None
+PRJ0397,Mega Infrastructure Development Phase 397,Roads & Highways,NHAI,Maharashtra,1762.02,1938.22,176.2,08-11-2027,133,20-03-2028,80,86,Land Acquisition
+PRJ0398,Mega Infrastructure Development Phase 398,Urban Public Transport,NBCC,Gujarat,190.84,286.26,95.42,07-04-2027,226,19-11-2027,76,64,Utility Shifting
+PRJ0399,Mega Infrastructure Development Phase 399,Roads & Highways,CPWD,Karnataka,909.36,1000.3,90.94,09-07-2027,510,30-11-2028,56,53,Contractual Dispute
+PRJ0400,Mega Infrastructure Development Phase 400,Roads & Highways,DMRC,Uttar Pradesh,2436.78,3045.98,609.2,17-03-2026,163,27-08-2026,93,97,Land Acquisition
+PRJ0401,Mega Infrastructure Development Phase 401,Construction,DMRC,Karnataka,1513.26,1513.26,0,17-03-2025,0,17-03-2025,92,89,None
+PRJ0402,Mega Infrastructure Development Phase 402,Bridges & Tunnels,NHAI,Delhi,747.43,747.43,0,16-07-2026,0,16-07-2026,44,45,None
+PRJ0403,Mega Infrastructure Development Phase 403,Urban Public Transport,BMRCL,Maharashtra,1376.07,1720.09,344.02,07-01-2026,601,31-08-2027,77,94,Environmental Clearance
+PRJ0404,Mega Infrastructure Development Phase 404,Roads & Highways,CPWD,Delhi,955.24,955.24,0,05-04-2026,0,05-04-2026,78,63,None
+PRJ0405,Mega Infrastructure Development Phase 405,Real Estate,MSRDC,Delhi,1400.78,1540.86,140.08,05-10-2025,344,14-09-2026,10,9,Environmental Clearance
+PRJ0406,Mega Infrastructure Development Phase 406,Roads & Highways,DMRC,Uttar Pradesh,445.49,490.04,44.55,25-05-2025,260,09-02-2026,77,74,Contractual Dispute
+PRJ0407,Mega Infrastructure Development Phase 407,Real Estate,NHAI,Maharashtra,461.88,508.07,46.19,23-07-2027,259,07-04-2028,21,22,Contractual Dispute
+PRJ0408,Mega Infrastructure Development Phase 408,Construction,MSRDC,Maharashtra,487.32,487.32,0,29-09-2025,0,29-09-2025,69,77,None
+PRJ0409,Mega Infrastructure Development Phase 409,Bridges & Tunnels,BMRCL,Telangana,2358.58,2358.58,0,27-07-2026,0,27-07-2026,36,28,None
+PRJ0410,Mega Infrastructure Development Phase 410,Construction,CPWD,Maharashtra,1872.31,2059.54,187.23,03-06-2026,545,30-11-2027,65,76,Utility Shifting
+PRJ0411,Mega Infrastructure Development Phase 411,Real Estate,BMRCL,Maharashtra,531.6,531.6,0,09-06-2025,0,09-06-2025,32,39,None
+PRJ0412,Mega Infrastructure Development Phase 412,Bridges & Tunnels,DMRC,Maharashtra,592.62,651.88,59.26,15-06-2025,702,18-05-2027,34,26,Utility Shifting
+PRJ0413,Mega Infrastructure Development Phase 413,Bridges & Tunnels,MSRDC,Uttar Pradesh,1867.45,2334.31,466.86,03-08-2025,244,04-04-2026,30,22,Utility Shifting
+PRJ0414,Mega Infrastructure Development Phase 414,Urban Public Transport,MSRDC,Karnataka,516.99,930.58,413.59,22-06-2025,438,03-09-2026,70,80,Fund Flow
+PRJ0415,Mega Infrastructure Development Phase 415,Roads & Highways,MSRDC,Telangana,701.22,701.22,0,16-01-2028,0,16-01-2028,72,69,None
+PRJ0416,Mega Infrastructure Development Phase 416,Urban Public Transport,DMRC,Delhi,2413.87,3017.34,603.47,03-12-2026,262,22-08-2027,61,73,Contractual Dispute
+PRJ0417,Mega Infrastructure Development Phase 417,Real Estate,DMRC,Maharashtra,749.97,824.97,75,26-04-2027,99,03-08-2027,97,100,Utility Shifting
+PRJ0418,Mega Infrastructure Development Phase 418,Real Estate,BMRCL,West Bengal,1704.84,1704.84,0,21-09-2025,0,21-09-2025,34,34,None
+PRJ0419,Mega Infrastructure Development Phase 419,Roads & Highways,NBCC,Karnataka,2449.78,2449.78,0,12-03-2026,0,12-03-2026,64,50,None
+PRJ0420,Mega Infrastructure Development Phase 420,Roads & Highways,BMRCL,Karnataka,1029.6,1287,257.4,18-05-2027,336,18-04-2028,55,57,Land Acquisition
+PRJ0421,Mega Infrastructure Development Phase 421,Roads & Highways,CPWD,Delhi,191.16,191.16,0,31-05-2025,0,31-05-2025,41,42,None
+PRJ0422,Mega Infrastructure Development Phase 422,Roads & Highways,NHAI,Uttar Pradesh,723.75,723.75,0,17-05-2025,0,17-05-2025,64,78,None
+PRJ0423,Mega Infrastructure Development Phase 423,Construction,MSRDC,Tamil Nadu,2102.56,2102.56,0,28-05-2026,0,28-05-2026,14,11,None
+PRJ0424,Mega Infrastructure Development Phase 424,Urban Public Transport,NBCC,Tamil Nadu,2181.83,2727.29,545.46,24-12-2026,690,13-11-2028,45,61,Contractual Dispute
+PRJ0425,Mega Infrastructure Development Phase 425,Construction,NHAI,Karnataka,1956.02,2445.02,489,17-07-2025,694,11-06-2027,58,71,Contractual Dispute
+PRJ0426,Mega Infrastructure Development Phase 426,Urban Public Transport,NBCC,Gujarat,415.81,519.76,103.95,06-01-2028,416,25-02-2029,67,81,Contractual Dispute
+PRJ0427,Mega Infrastructure Development Phase 427,Urban Public Transport,RVNL,Gujarat,2019.45,2019.45,0,13-06-2025,0,13-06-2025,48,50,None
+PRJ0428,Mega Infrastructure Development Phase 428,Roads & Highways,BMRCL,Delhi,2308.89,2308.89,0,07-04-2028,0,07-04-2028,89,86,None
+PRJ0429,Mega Infrastructure Development Phase 429,Real Estate,DMRC,Tamil Nadu,1561.43,1717.57,156.14,13-02-2026,695,09-01-2028,94,99,Environmental Clearance
+PRJ0430,Mega Infrastructure Development Phase 430,Construction,MSRDC,Karnataka,2361.06,2597.17,236.11,20-02-2027,700,20-01-2029,70,84,Contractual Dispute
+PRJ0431,Mega Infrastructure Development Phase 431,Construction,BMRCL,Uttar Pradesh,2093.07,2093.07,0,21-04-2026,0,21-04-2026,18,23,None
+PRJ0432,Mega Infrastructure Development Phase 432,Roads & Highways,NHAI,Tamil Nadu,1717.38,1889.12,171.74,25-07-2027,448,15-10-2028,15,16,Land Acquisition
+PRJ0433,Mega Infrastructure Development Phase 433,Roads & Highways,RVNL,Karnataka,1506.39,2711.5,1205.11,06-04-2026,692,27-02-2028,44,47,Fund Flow
+PRJ0434,Mega Infrastructure Development Phase 434,Construction,RVNL,Karnataka,969.15,1211.44,242.29,05-12-2027,106,20-03-2028,48,47,Land Acquisition
+PRJ0435,Mega Infrastructure Development Phase 435,Construction,RVNL,Maharashtra,524.33,655.41,131.08,22-10-2027,363,19-10-2028,31,24,Environmental Clearance
+PRJ0436,Mega Infrastructure Development Phase 436,Roads & Highways,NHAI,Uttar Pradesh,1571.64,2828.95,1257.31,10-06-2027,205,01-01-2028,50,44,Fund Flow
+PRJ0437,Mega Infrastructure Development Phase 437,Construction,NHAI,Maharashtra,897.56,897.56,0,19-04-2026,0,19-04-2026,14,29,None
+PRJ0438,Mega Infrastructure Development Phase 438,Roads & Highways,NHAI,Delhi,2186.13,2404.74,218.61,15-12-2027,171,03-06-2028,51,58,Land Acquisition
+PRJ0439,Mega Infrastructure Development Phase 439,Roads & Highways,NHAI,Maharashtra,2484.34,4471.81,1987.47,07-06-2026,413,25-07-2027,96,100,Contractual Dispute
+PRJ0440,Mega Infrastructure Development Phase 440,Construction,RVNL,West Bengal,1918.21,1918.21,0,22-02-2028,0,22-02-2028,90,100,None
+PRJ0441,Mega Infrastructure Development Phase 441,Construction,RVNL,Maharashtra,362.63,453.29,90.66,24-03-2026,147,18-08-2026,85,78,Utility Shifting
+PRJ0442,Mega Infrastructure Development Phase 442,Bridges & Tunnels,NBCC,West Bengal,828.41,911.25,82.84,17-10-2025,243,17-06-2026,96,81,Utility Shifting
+PRJ0443,Mega Infrastructure Development Phase 443,Real Estate,BMRCL,Tamil Nadu,406.41,447.05,40.64,29-05-2026,493,04-10-2027,89,100,Land Acquisition
+PRJ0444,Mega Infrastructure Development Phase 444,Real Estate,MSRDC,Gujarat,1678.7,1846.57,167.87,22-09-2027,717,08-09-2029,76,71,Environmental Clearance
+PRJ0445,Mega Infrastructure Development Phase 445,Roads & Highways,DMRC,Telangana,1948.2,2922.3,974.1,07-10-2026,355,27-09-2027,39,57,Environmental Clearance
+PRJ0446,Mega Infrastructure Development Phase 446,Bridges & Tunnels,RVNL,Telangana,2325.34,2906.68,581.34,11-12-2027,404,18-01-2029,66,66,Land Acquisition
+PRJ0447,Mega Infrastructure Development Phase 447,Bridges & Tunnels,DMRC,Karnataka,1179.71,1179.71,0,02-11-2027,0,02-11-2027,95,88,None
+PRJ0448,Mega Infrastructure Development Phase 448,Roads & Highways,BMRCL,Telangana,2268.23,3402.34,1134.11,08-11-2025,194,21-05-2026,82,98,Contractual Dispute
+PRJ0449,Mega Infrastructure Development Phase 449,Real Estate,BMRCL,West Bengal,2213.04,2213.04,0,18-03-2028,0,18-03-2028,38,37,None
+PRJ0450,Mega Infrastructure Development Phase 450,Construction,DMRC,Uttar Pradesh,895.41,895.41,0,08-09-2026,0,08-09-2026,46,42,None
+PRJ0451,Mega Infrastructure Development Phase 451,Roads & Highways,RVNL,Maharashtra,2191.92,2411.11,219.19,24-11-2026,367,26-11-2027,96,100,Environmental Clearance
+PRJ0452,Mega Infrastructure Development Phase 452,Urban Public Transport,DMRC,West Bengal,1032.83,1136.11,103.28,06-04-2026,443,23-06-2027,22,20,Land Acquisition
+PRJ0453,Mega Infrastructure Development Phase 453,Urban Public Transport,NBCC,Uttar Pradesh,847.64,932.4,84.76,23-10-2025,669,23-08-2027,41,33,Environmental Clearance
+PRJ0454,Mega Infrastructure Development Phase 454,Bridges & Tunnels,CPWD,Gujarat,1675.33,2513,837.67,15-08-2027,345,25-07-2028,55,47,Land Acquisition
+PRJ0455,Mega Infrastructure Development Phase 455,Construction,RVNL,Telangana,921.7,1152.12,230.42,13-09-2027,188,19-03-2028,32,43,Environmental Clearance
+PRJ0456,Mega Infrastructure Development Phase 456,Urban Public Transport,RVNL,Gujarat,1630.99,1794.09,163.1,02-01-2026,677,10-11-2027,54,50,Contractual Dispute
+PRJ0457,Mega Infrastructure Development Phase 457,Construction,MSRDC,Telangana,1583.1,1583.1,0,19-04-2028,0,19-04-2028,26,11,None
+PRJ0458,Mega Infrastructure Development Phase 458,Urban Public Transport,NHAI,Maharashtra,1474.08,2211.12,737.04,31-12-2026,492,06-05-2028,94,89,Environmental Clearance
+PRJ0459,Mega Infrastructure Development Phase 459,Construction,CPWD,Delhi,1043.99,1565.98,521.99,31-12-2026,198,17-07-2027,75,90,Land Acquisition
+PRJ0460,Mega Infrastructure Development Phase 460,Construction,BMRCL,Maharashtra,1438.97,1798.71,359.74,24-05-2027,288,07-03-2028,15,16,Utility Shifting
+PRJ0461,Mega Infrastructure Development Phase 461,Construction,RVNL,Tamil Nadu,1551.74,1551.74,0,14-04-2027,0,14-04-2027,27,44,None
+PRJ0462,Mega Infrastructure Development Phase 462,Roads & Highways,DMRC,West Bengal,1432.36,1432.36,0,23-01-2026,0,23-01-2026,31,47,None
+PRJ0463,Mega Infrastructure Development Phase 463,Roads & Highways,CPWD,Karnataka,1194.39,1194.39,0,19-10-2025,0,19-10-2025,42,55,None
+PRJ0464,Mega Infrastructure Development Phase 464,Urban Public Transport,MSRDC,Delhi,184.47,184.47,0,14-05-2026,0,14-05-2026,39,44,None
+PRJ0465,Mega Infrastructure Development Phase 465,Bridges & Tunnels,BMRCL,Maharashtra,1529.6,1529.6,0,26-04-2026,0,26-04-2026,90,95,None
+PRJ0466,Mega Infrastructure Development Phase 466,Real Estate,NHAI,Uttar Pradesh,545.84,818.76,272.92,26-09-2026,551,30-03-2028,41,48,Environmental Clearance
+PRJ0467,Mega Infrastructure Development Phase 467,Real Estate,NHAI,Delhi,1660.05,1826.06,166.01,20-12-2026,221,29-07-2027,51,41,Fund Flow
+PRJ0468,Mega Infrastructure Development Phase 468,Roads & Highways,MSRDC,West Bengal,1934.46,1934.46,0,07-05-2028,0,07-05-2028,87,93,None
+PRJ0469,Mega Infrastructure Development Phase 469,Construction,MSRDC,Telangana,1326.05,1326.05,0,17-07-2028,0,17-07-2028,19,11,None
+PRJ0470,Mega Infrastructure Development Phase 470,Bridges & Tunnels,DMRC,Delhi,1424.55,1424.55,0,23-03-2027,0,23-03-2027,45,64,None
+PRJ0471,Mega Infrastructure Development Phase 471,Construction,RVNL,Telangana,2385.97,2385.97,0,28-06-2028,0,28-06-2028,43,38,None
+PRJ0472,Mega Infrastructure Development Phase 472,Bridges & Tunnels,NHAI,West Bengal,2140.84,2140.84,0,18-02-2028,0,18-02-2028,82,90,None
+PRJ0473,Mega Infrastructure Development Phase 473,Construction,BMRCL,Maharashtra,2298.46,2298.46,0,16-02-2026,0,16-02-2026,37,42,None
+PRJ0474,Mega Infrastructure Development Phase 474,Roads & Highways,CPWD,West Bengal,2062.35,2577.94,515.59,23-07-2027,457,22-10-2028,20,6,Environmental Clearance
+PRJ0475,Mega Infrastructure Development Phase 475,Urban Public Transport,BMRCL,Delhi,405.96,730.73,324.77,11-06-2027,236,02-02-2028,87,90,Fund Flow
+PRJ0476,Mega Infrastructure Development Phase 476,Bridges & Tunnels,NBCC,Uttar Pradesh,500.13,500.13,0,01-01-2028,0,01-01-2028,48,60,None
+PRJ0477,Mega Infrastructure Development Phase 477,Construction,NBCC,Gujarat,1387.57,1526.33,138.76,17-02-2028,704,21-01-2030,56,57,Environmental Clearance
+PRJ0478,Mega Infrastructure Development Phase 478,Urban Public Transport,MSRDC,Delhi,728.26,910.32,182.06,15-05-2027,647,20-02-2029,28,18,Environmental Clearance
+PRJ0479,Mega Infrastructure Development Phase 479,Bridges & Tunnels,DMRC,West Bengal,1270.23,1270.23,0,02-08-2028,0,02-08-2028,24,27,None
+PRJ0480,Mega Infrastructure Development Phase 480,Urban Public Transport,NBCC,Gujarat,1076.76,1076.76,0,12-09-2027,0,12-09-2027,37,49,None
+PRJ0481,Mega Infrastructure Development Phase 481,Roads & Highways,NHAI,West Bengal,1441.12,2161.68,720.56,02-12-2026,564,18-06-2028,33,19,Fund Flow
+PRJ0482,Mega Infrastructure Development Phase 482,Roads & Highways,BMRCL,Uttar Pradesh,1905.16,1905.16,0,28-11-2026,0,28-11-2026,81,69,None
+PRJ0483,Mega Infrastructure Development Phase 483,Urban Public Transport,BMRCL,West Bengal,1831.4,2014.54,183.14,13-10-2027,510,06-03-2029,18,24,Fund Flow
+PRJ0484,Mega Infrastructure Development Phase 484,Roads & Highways,MSRDC,Maharashtra,1374.9,1512.39,137.49,06-10-2027,456,04-01-2029,56,66,Contractual Dispute
+PRJ0485,Mega Infrastructure Development Phase 485,Urban Public Transport,RVNL,Karnataka,2082.62,2082.62,0,06-12-2027,0,06-12-2027,42,39,None
+PRJ0486,Mega Infrastructure Development Phase 486,Bridges & Tunnels,RVNL,Telangana,1162.53,1162.53,0,22-03-2027,0,22-03-2027,71,87,None
+PRJ0487,Mega Infrastructure Development Phase 487,Construction,CPWD,Telangana,2257.28,2821.6,564.32,13-07-2028,129,19-11-2028,28,29,Fund Flow
+PRJ0488,Mega Infrastructure Development Phase 488,Real Estate,MSRDC,Delhi,317.51,317.51,0,06-02-2026,0,06-02-2026,76,79,None
+PRJ0489,Mega Infrastructure Development Phase 489,Bridges & Tunnels,CPWD,Karnataka,2393.45,2393.45,0,16-07-2027,0,16-07-2027,83,100,None
+PRJ0490,Mega Infrastructure Development Phase 490,Roads & Highways,RVNL,West Bengal,1688.53,2110.66,422.13,04-01-2028,625,20-09-2029,49,61,Environmental Clearance
+PRJ0491,Mega Infrastructure Development Phase 491,Urban Public Transport,MSRDC,Uttar Pradesh,1043.18,1147.5,104.32,18-05-2028,625,02-02-2030,56,41,Utility Shifting
+PRJ0492,Mega Infrastructure Development Phase 492,Roads & Highways,MSRDC,Delhi,613.31,613.31,0,30-11-2026,0,30-11-2026,74,76,None
+PRJ0493,Mega Infrastructure Development Phase 493,Real Estate,MSRDC,West Bengal,1276.08,1914.12,638.04,16-05-2026,379,30-05-2027,38,55,Utility Shifting
+PRJ0494,Mega Infrastructure Development Phase 494,Construction,RVNL,Gujarat,607.21,607.21,0,14-11-2028,0,14-11-2028,59,55,None
+PRJ0495,Mega Infrastructure Development Phase 495,Urban Public Transport,CPWD,Tamil Nadu,540.88,676.1,135.22,06-05-2027,560,16-11-2028,22,14,Fund Flow
+PRJ0496,Mega Infrastructure Development Phase 496,Real Estate,CPWD,West Bengal,1600.78,2000.98,400.2,10-04-2026,270,05-01-2027,10,18,Contractual Dispute
+PRJ0497,Mega Infrastructure Development Phase 497,Urban Public Transport,MSRDC,Karnataka,1379.25,1517.18,137.93,17-07-2028,337,19-06-2029,43,43,Fund Flow
+PRJ0498,Mega Infrastructure Development Phase 498,Construction,NBCC,Delhi,1724.73,1897.2,172.47,24-11-2026,717,10-11-2028,57,45,Utility Shifting
+PRJ0499,Mega Infrastructure Development Phase 499,Bridges & Tunnels,DMRC,Karnataka,2334.57,4202.23,1867.66,25-05-2028,368,28-05-2029,86,97,Contractual Dispute
+PRJ0500,Mega Infrastructure Development Phase 500,Bridges & Tunnels,RVNL,Delhi,1400.81,1400.81,0,06-01-2028,0,06-01-2028,57,50,None
